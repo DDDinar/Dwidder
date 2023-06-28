@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/.idea.Dwidder/.idea/workspace.xml
+.idea/.idea.Dwidder/.idea/vcs.xml

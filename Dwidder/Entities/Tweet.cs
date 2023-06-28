@@ -8,7 +8,7 @@ public class Tweet
     
 }
 
-public class TweetTypeCinfiguration : IEntityTypeConfiguration<Tweet>
+public class TweetTypeConfiguration : IEntityTypeConfiguration<Tweet>
 {
     public void Configure(EntityTypeBuilder<Tweet> builder)
     {

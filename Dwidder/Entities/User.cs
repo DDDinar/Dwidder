@@ -8,7 +8,7 @@ public class User
     
 }
 
-public class UserTypeCinfiguration : IEntityTypeConfiguration<User>
+public class UserTypeConfiguration : IEntityTypeConfiguration<User>
 {
     public void Configure(EntityTypeBuilder<User> builder)
     {
